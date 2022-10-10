@@ -1,5 +1,5 @@
 # Puzzle Turtles
-### _Emprego de Jardinagem desenvolvido por:_
+### _Coletor de Tartarugas ( ilegal ) desenvolvido por:_
 - ####  _[Puzzle Community](https://discord.gg/UajwX4a)_
 
 ## Descrição
